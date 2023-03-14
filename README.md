@@ -1,6 +1,6 @@
 # findusers
 
-How to used
+#How to used
 
 git clone https://github.com/ahmeddwas/findusers
 
